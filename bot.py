@@ -7,7 +7,7 @@ client = commands.Bot( command_prefix = '.')
 hello_words = [ 'hello', 'hi', 'привет', 'ky', 'здарова' ]
 answer_words = [ 'узнать информацию о сервере', 'какая информация',
 				'команды', 'команды сервера', 'что здесь делать' ]
-goodbye_words = ['пока', 'bb', 'poka', 'пока всем' , 'привет всем' , 'hello_words'] 
+goodbye_words = ['пока', 'bb', 'poka', 'пока всем' ] 
 
 # Подключение бота
 @client.event
